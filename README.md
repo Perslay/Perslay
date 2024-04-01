@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perslay
 - 👀 I’m interested in IT, ornithology, gaming and drawing
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 
 <!---
 Perslay/Perslay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
