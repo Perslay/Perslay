@@ -2,11 +2,10 @@
 <h3 align="center">A fullstack developer from Poland</h3>
 
 - 🌱 I’m currently learning **Node JS**
-
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  I'm interested in technology. My hobbies are gaming, drawing and ornithology. I'm in autism spectrum and provide a different view on the riddles.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
