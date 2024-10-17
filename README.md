@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natalia Fedyk</h1>
 <h3 align="center">A fullstack developer from Poland</h3>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning about **AI**
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
 
 <p>
-  I'm interested in technology. My hobbies are gaming, drawing and ornithology. I'm in autism spectrum and provide a different view on the riddles.
+  I'm interested in technology. My hobbies are gaming, drawing and ornithology.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
