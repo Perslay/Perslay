@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia Fedyk</h1>
-<h3 align="center">A fullstack developer from Poland</h3>
+<h2 align="center">A fullstack developer from Poland</h3>
 
 - 🌱 I’m currently learning about **AI**
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
@@ -8,7 +8,11 @@
   I'm interested in technology. My hobbies are gaming, drawing and ornithology.
 </p>
 
-<p>My work:</p>
+<h3>Portfolio</h3>
+<p>Code: https://github.com/Perslay/portfolio</p>
+<p>Website: https://portfolio-beryl-two-79.vercel.app/</p>
+
+<h3>My repositories:</h3>
 <ul>
 <li>Contacts backend: https://github.com/Perslay/goit-nodejs-hw-02</li>
 <li>Phonebook with registration: https://github.com/Perslay/goit-react-hw-08-phonebook</li>
