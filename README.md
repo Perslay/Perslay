@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia Fedyk</h1>
-<h2 align="center">A fullstack developer from Poland</h3>
+<h2 align="center">A game tester from Poland</h3>
 
-- 🌱 I’m currently learning about **AI**
+- 🌱 I’m currently learning about **manual testing**
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
 
 <p>
