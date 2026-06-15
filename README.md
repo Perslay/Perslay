@@ -5,7 +5,7 @@
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
 
 <p>
-  I'm interested in technology. My hobbies are gaming, drawing and ornithology.
+  I'm interested in technology. My hobbies are gaming, drawing and arachnology.
 </p>
 
 <h3>Portfolio</h3>
