@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natalia Fedyk</h1>
 <h2 align="center">A game tester from Poland</h3>
 
-- 🌱 I’m currently learning about **manual testing**
 - 📫 How to reach me **natalia.44.fedyk@gmail.com**
 
 <p>
   I'm interested in technology. My hobbies are gaming, drawing and arachnology.
 </p>
-
-<h3>Portfolio</h3>
-<p>Code: https://github.com/Perslay/portfolio</p>
-<p>Website: https://portfolio-beryl-two-79.vercel.app/</p>
 
 <h3>My repositories:</h3>
 <ul>
